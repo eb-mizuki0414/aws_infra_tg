@@ -1,1 +1,1 @@
-# aws_infra_tg_course
+# aws_infra_tg
